@@ -16,8 +16,4 @@ A simple web application that fetches and displays user profile information usin
 - **JavaScript** – Handling API requests and dynamic updates  
 - **Bootstrap** – Ensuring a responsive and modern UI  
 
-## 📌 Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/profile-fetcher.git
